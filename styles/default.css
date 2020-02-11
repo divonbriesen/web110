@@ -1,0 +1,76 @@
+
+/* got this from coolors.co - please improve!
+ https://coolors.co/b5d6b2-53131e-5a464c-fffacc-ffefbd
+*/
+body
+{
+	font-family: tahoma;
+	color: #ffefbd ;
+	background-color: #5a464c;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+.usersection
+{
+	background-color: #53131e;
+	padding: 25px;
+	margin: 25px;
+}
+
+.category
+{
+	font-weight: bold;
+}
+header, footer
+{
+	text-align: center;
+	color: ;
+	font-weight: bold;
+}
+
+h1, h2, h3
+{
+	color: FFefbd;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	text-align: center;
+}
+
+h3
+{
+	font-size: 200%;
+	line-height: 0px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #b5d6b2;
+}
+
+a:hover
+{
+	text-decoration: overline underline;
+}
+
+figure
+{
+	text-align: center;
+}
+
+figcaption
+{
+	font-style: italic;
+}
+
+.attribute
+{
+	font-weight: bold;
+	color: darkslategray;
+}
+
+nav
+{
+	text-align: center;
+}
+
