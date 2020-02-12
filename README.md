@@ -4,6 +4,8 @@
 - Richie was also here... in spirit
 - Chris was also hanging out
 - so was Patricia, and Nick.
+- Derrick got online...
+- So did Richard
 
 For web110 general content
 
