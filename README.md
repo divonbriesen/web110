@@ -2,6 +2,8 @@
 - D.I. was here
 - Joel was not here ... correction Joel was here
 - Richie was also here... in spirit
+- Chris was also hanging out
+- so was Patricia, and Nick.
 
 For web110 general content
 
